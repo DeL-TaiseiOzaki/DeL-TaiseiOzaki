@@ -4,7 +4,7 @@
 - 💞️ 
 - 📫 How to reach me Mail:sg23174y@st.omu.ac.jp
 
-📚 Masters Student in Mechanical Dynamics @ Osaka Metropolitan University
+📚 Masters Student in Mechanical Dynamics @ Osaka Metropolitan University\n
 🛠 Part of the Machine Dynamics Research Group
 📖 Published Author with the Society for Language Processing and the Artificial Intelligence Association
 
