@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on Osaka Metropolitan University (OMU) and Matsuo institute (Tokyo University)
 - 🌱 I’m currently learning Large Language Models and LLM Agent system
-- 📫 How to reach me: symonds6457@gmail.com
+- 📫 How to reach me: taisei.ozaki.lab@gmail.com
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: Horse Race 🐎
 
